@@ -11,6 +11,7 @@
 By applying Y's Method, we can have that :
 
 $DP \begin{cases}\text{State Presentation: }f(i,j)\begin{cases}\text{Sample Space (S): }\text{从(1,1)走到(i,j)的所有路线的集合}\\\text{Attribution: }\text{Max\{每一条路线拿到花生的数量\}}\end{cases}\\\text{State Calculation} \begin{cases}\text{Partition: }\text{\{[到达(i,j)的]最后一步是从左侧; 最后一步是从上侧\}}\\\text{Transition: }f(i,j)=max(f(i-1,j), f(i,j - 1)) + w(i,j)\end{cases}\end{cases}$.
+>> The origin markdown does not support the markdown, thus plugins like MathJax are recommmeded to be added to your chrome browser. 
 
 ##### 1.1.1.b Codes
 
