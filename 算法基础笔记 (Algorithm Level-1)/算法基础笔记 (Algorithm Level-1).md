@@ -164,3 +164,8 @@ int main (void) {
     return 0;
 }
 ```
+
+
+<footer style="text-align: center">
+    Algorithm Learing Level 1 &copy;2021,  Soraruholic
+</footer>
