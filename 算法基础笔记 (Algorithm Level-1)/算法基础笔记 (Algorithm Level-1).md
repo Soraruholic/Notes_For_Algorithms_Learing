@@ -4,7 +4,7 @@
 
 ### 1.1 数字三角形模型
 
-#### 1.1.1 [ 摘花生 ](https://www.acwing.com/problem/content/1017/)
+#### 1.1.1 [ 摘花生 ](https://www.acwing.com/problem/content/1017/) [<-- Links of the Problems]
 
 ##### 1.1.1.a Analysis
 
